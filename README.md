@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Satya Yanamadala! 👋
 
-<!--
-**satyayanamadala/satyayanamadala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning and expanding my knowledge in software development and machine learning.
+- 💼 I am Pursing B.Tech in Computer Science And Engineering With Specialization in AIML.
+- 🔭 I’m currently working on various exciting projects and contributing to open-source communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+- **Languages:** Python, C, Java, C++
+- **Web Development:** HTML, CSS.
+- **Databases:** MySQL.
+- **Other Technologies:** Git
+
+## Projects
+
+### Project 1: [Project Name](https://github.com/satyayanamadala/project1)
+Description of the project, what technologies were used, and what challenges were solved.
+
+### Project 2: [Project Name](https://github.com/satyayanamadala/project2)
+Description of the project, what technologies were used, and what challenges were solved.
+
+## Get in Touch
+
+- 📫 How to reach me: [Email](mailto:satyayanamadala@example.com)
+- 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/satya-yanamadala)
+- 🐦 Follow me on [Twitter](https://twitter.com/Satya03410746)
+
+## GitHub Stats
+
+![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyayanamadala&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyayanamadala&layout=compact&theme=radical)
+
+Thanks for visiting my profile! Have a great day! 😊
