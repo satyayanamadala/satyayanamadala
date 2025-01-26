@@ -15,8 +15,8 @@
 
 ## Projects
 
-### Flight Ticket Management System: (https://github.com/satyayanamadala/flight-ticket-management-System)
-Description of the project, what technologies were used, and what challenges were solved.
+### Project 1:[Flight Ticket Management System](https://github.com/satyayanamadala/flight-ticket-management-System)
+A Flight Ticket Management System is a software application designed to manage and streamline the processes related to booking, issuing, and managing flight tickets. It is widely used by airlines, travel agencies, and online booking platforms to enhance efficiency and provide a seamless user experience
 
 ### Project 2: [Project Name](https://github.com/satyayanamadala/project2)
 Description of the project, what technologies were used, and what challenges were solved.
