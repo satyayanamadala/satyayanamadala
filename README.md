@@ -15,7 +15,7 @@
 
 ## Projects
 
-### Project 1: [Project Name](https://github.com/satyayanamadala/project1)
+### Flight Ticket Management System: (https://github.com/satyayanamadala/flight-ticket-management-System)
 Description of the project, what technologies were used, and what challenges were solved.
 
 ### Project 2: [Project Name](https://github.com/satyayanamadala/project2)
